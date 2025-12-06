@@ -13,10 +13,6 @@ I distinguish myself from other admins by using my data coding background to cre
 - 🎯 My goal: **To secure a Cloud Support or SysAdmin (Azure/Microsoft365) role in France**
 - ⚡ Fun fact: I speak 3 languages (English, French, Arabic)
 
-<p align="left">
-  <a href="https://linkedin.com/in/ilyessalmi"><b>LinkedIn Profile</b></a> | 
-  <a href="https://www.datacamp.com/portfolio/ilyessalmi"><b>DataCamp Portfolio (Python/SQL)</b></a>
-</p>
 
 ---
 
@@ -113,5 +109,7 @@ Below are the hands-on projects I have designed and deployed in my home lab.
 </a>
 <a href="mailto:ccc.ccc@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>    
+</a>
+  <a href="https://linkedin.com/in/ilyessalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyessalmi" height="30" width="40" /></a>
+<a href="https://www.datacamp.com/portfolio/ilyessalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/datacamp.svg" alt="ilyessalmi" height="30" width="40" /></a>
 </p>
