@@ -1,7 +1,6 @@
 # Hi there, I'm Ilyes Salmi! 👋
 ### IT Systems & Cloud Administrator | Data-Driven Automation Specialist
 
-<img src="profile.jpg" align="right" width="120" style="border-radius: 50%;">
 
 I am a resilient and technical IT professional with a unique dual background in **Cloud Infrastructure** and **Data Engineering**. 
 
