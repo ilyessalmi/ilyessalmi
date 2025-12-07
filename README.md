@@ -9,7 +9,7 @@ My journey began with hands-on IT support in Prague, managing Microsoft 365 for 
 
 I distinguish myself from other admins by using my data coding background to create **efficient automation scripts**, perform **robust troubleshooting**, and handle complex **log analysis**.
 
-- 🔭 I’m currently working on: **Azure Infrastructure & Microsoft 365 ecosystem**
+- 🔭 I’m currently working on: **Azure Infrastructure & Microsoft 365 Security and Compliance and n8n Workflow Automation**
 - 🎯 My goal: **To secure a Cloud Support or SysAdmin (Azure/Microsoft365) role in France**
 - ⚡ Fun fact: I speak 3 languages (English, French, Arabic)
 
@@ -29,6 +29,7 @@ I distinguish myself from other admins by using my data coding background to cre
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -92,16 +93,25 @@ Below are the hands-on projects I have designed and deployed in my home lab.
 | **Azure Fundamentals (AZ-900)** | Microsoft | ✅ Earned |
 | **Microsoft 365 Fundamentals (MS-900)** | Microsoft | ✅ Earned |
 | **Microsoft Cloud Support Associate** | Coursera | ✅ Earned |
+| **Python for Everybody Specialization** | University of Michigan | ✅ Earned |
 | **Google IT Support Professional** | Coursera | ✅ Earned |
+| **Google AI & Prompting Essentials** | Coursera | ✅ Earned |
 | *Security, Compliance, and Identity (SC-900)* | Microsoft | ⏳ In Progress |
+| *Azure Administrator Associate (AZ-104)* | Microsoft | 🎯 Planned Q1 2026 |
 
 ---
+
 
 ### 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ilyessalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyessalmi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ilyessalmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.datacamp.com/portfolio/ilyessalmi"><img src="https://img.shields.io/badge/DataCamp_Portfolio-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" /></a>
-<a href="mailto:ccc.ccc@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ilyessalmi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.datacamp.com/portfolio/ilyessalmi">
+    <img src="https://img.shields.io/badge/DataCamp_Portfolio-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp" />
+  </a>
+  <a href="mailto:salmi.ilyes@hotmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
