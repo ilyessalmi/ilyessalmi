@@ -42,7 +42,7 @@ I distinguish myself from other admins by using my data coding background to cre
 *   *Relevance to IT Admin:* Gained advanced scripting logic and database management skills used for IT automation and log auditing.
 
 ### **Assistant IT Administrator (Microsoft 365)** | *Green Ways s.r.o.*
-*Prague, Czech Republic | 2022 (6 Months)*
+*Prague, Czech Republic | 2023 (6 Months)*
 *   Managed a **Microsoft 365 Business Premium** tenant for a distributed team of ~30 employees.
 *   Administered user lifecycles: Assigning licenses, configuring **Exchange Online** mailboxes, and managing **Microsoft Teams** channels for weekly operational meetings.
 *   Designed and maintained **SharePoint** landing pages to support digital marketing campaigns and internal document sharing.
