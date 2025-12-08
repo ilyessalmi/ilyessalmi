@@ -9,7 +9,7 @@ My journey began with hands-on IT support in Prague, managing Microsoft 365 for 
 
 I distinguish myself from other admins by using my data coding background to create **efficient automation scripts**, perform **robust troubleshooting**, and handle complex **log analysis**.
 
-- 🔭 I’m currently working on: **Azure Infrastructure & Microsoft 365 Security and Compliance and n8n Workflow Automation**
+- 🔭 I’m currently working on: **Azure Infrastructure & Microsoft 365 Security Compliance and n8n Workflow Automation**
 - 🎯 My goal: **To secure a Cloud Support or SysAdmin (Azure/Microsoft365) role in France**
 - ⚡ Fun fact: I speak 3 languages (English, French, Arabic)
 
