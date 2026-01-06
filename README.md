@@ -79,7 +79,7 @@ Below are the hands-on projects I have designed and deployed in my home lab.
 ## 📊 Data Engineering Projects
 *Demonstrating my ability to handle complex logic, databases, and scripting.*
 
-### ➡️ [View My Data Engineering Repository](https://github.com/ilyessalmi/Data-Engineering-Projects/README.md)
+### ➡️ [View My Data Engineering Repository](https://github.com/ilyessalmi/Data-Engineering-Projects)
 *   **Highlights:** ETL Pipelines, SQL Database Management, Python Automation scripts.
 *   **Certification Project:** Full pipeline implementation validated for RNCP Level 7.
 
