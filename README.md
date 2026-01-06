@@ -40,7 +40,7 @@ I distinguish myself from other admins by using my data coding background to cre
 ### **Data Engineer - Intensive Bootcamp** | *Ecole PMN (Le Pont)*
 *Remote/Hybrid | Dec 2023 - July 2024*
 *   Validated **RNCP Level 7 (Master's Level)** title in Data Engineering.
-*   Built end-to-end ETL pipelines using **Python** and **SQL**.
+*   Built end-to-end ETL pipelines using **Python**, **SQL**, **Spark** and **Databricks**
 *   *Relevance to IT Admin:* Gained advanced scripting logic and database management skills used for IT automation and log auditing.
 
 ### **Assistant IT Administrator (Microsoft 365)** | *Green Ways s.r.o.*
