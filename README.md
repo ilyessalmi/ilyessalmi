@@ -54,23 +54,23 @@ I distinguish myself from other admins by using my data coding background to cre
 
 Below are the hands-on projects I have designed and deployed in my home lab.
 
-### ➡️ [Project 5: Azure "Lift and Shift" Migration & Governance](https://github.com/ilyessalmi/My-IT-Portfolio/tree/main/Project-05-Azure-LiftAndShift.README.md)
+### ➡️ [Project 5: Azure "Lift and Shift" Migration & Governance](https://github.com/ilyessalmi/My-IT-Portfolio/tree/main/Project-05-Azure-LiftAndShift/README.md)
 *   **Scenario:** Migrated a critical on-premises file server to Azure IaaS to improve resilience.
 *   **Key Tech:** Azure VMs, VNet Segmentation, NSGs, Azure Backup, Azure Monitor, Policy & Cost Management.
 
-### ➡️ [Project 4: Secure Collaboration Environment (Teams & Exchange)](https://github.com/ilyessalmi/My-IT-Portfolio/tree/main/Project-04-Collaboration-Environment.README.md)
+### ➡️ [Project 4: Secure Collaboration Environment (Teams & Exchange)](https://github.com/ilyessalmi/My-IT-Portfolio/tree/main/Project-04-Collaboration-Environment/README.md)
 *   **Scenario:** Designed a secure workspace for a confidential internal project team ("Project Phoenix").
 *   **Key Tech:** M365 Groups, Exchange Mail Flow Rules, SharePoint Sharing Policies, eDiscovery.
 
-### ➡️ [Project 3: M365 Security & Compliance Baseline](https://github.com/ilyessalmi/My-IT-Portfolio/tree/main/Project-03-M365-Security-Baseline.README.md)
+### ➡️ [Project 3: M365 Security & Compliance Baseline](https://github.com/ilyessalmi/My-IT-Portfolio/tree/main/Project-03-M365-Security-Baseline/README.md)
 *   **Scenario:** Hardened a Microsoft 365 tenant against modern identity threats.
 *   **Key Tech:** Conditional Access, MFA, Identity Protection (User Risk), Data Loss Prevention (DLP).
 
-### ➡️ [Project 2: Cloud-Native User Automation (Graph API)](https://github.com/ilyessalmi/My-IT-Portfolio/tree/main/Project-02-Cloud-User-Automation.README.md)
+### ➡️ [Project 2: Cloud-Native User Automation (Graph API)](https://github.com/ilyessalmi/My-IT-Portfolio/tree/main/Project-02-Cloud-User-Automation/README.md)
 *   **Scenario:** Automated user onboarding/offboarding to reduce manual errors.
 *   **Key Tech:** PowerShell 7, Microsoft Graph API, Error Handling, CSV Parsing.
 
-### ➡️ [Project 1: On-Premises & Modern Endpoint Management](https://github.com/ilyessalmi/My-IT-Portfolio/tree/main/Project-01-Hybrid-Identity.README.md)
+### ➡️ [Project 1: On-Premises & Modern Endpoint Management](https://github.com/ilyessalmi/My-IT-Portfolio/tree/main/Project-01-Hybrid-Identity/README.md)
 *   **Scenario:** Built a complete corporate network from scratch and bridged it to the cloud.
 *   **Key Tech:** Active Directory, DNS/DHCP, GPO, Entra ID Connect, Microsoft Intune (Co-management & BYOD).
 
@@ -79,7 +79,7 @@ Below are the hands-on projects I have designed and deployed in my home lab.
 ## 📊 Data Engineering Projects
 *Demonstrating my ability to handle complex logic, databases, and scripting.*
 
-### ➡️ [View My Data Engineering Repository](https://github.com/ilyessalmi/Data-Engineering-Projects.README.md)
+### ➡️ [View My Data Engineering Repository](https://github.com/ilyessalmi/Data-Engineering-Projects/README.md)
 *   **Highlights:** ETL Pipelines, SQL Database Management, Python Automation scripts.
 *   **Certification Project:** Full pipeline implementation validated for RNCP Level 7.
 
