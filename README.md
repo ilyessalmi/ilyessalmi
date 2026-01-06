@@ -19,6 +19,7 @@ I distinguish myself from other admins by using my data coding background to cre
 ## 🛠 Technical Skills
 
 **Cloud & Infrastructure**
+
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -26,6 +27,7 @@ I distinguish myself from other admins by using my data coding background to cre
 ![M365](https://img.shields.io/badge/Microsoft%20365-503792?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **Automation & Data**
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
