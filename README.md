@@ -9,7 +9,7 @@ I distinguish myself from other admins by using my data coding background to cre
 
 - 🔭 I'm currently working on: **Azure Infrastructure, Microsoft 365 Security & Compliance, n8n Workflow Automation**
 - 🎯 My goal: **To secure a Cloud Support / SysAdmin (Azure/Microsoft 365) role in France**
-- 📚 Currently preparing: **AZ-104 (Azure Administrator Associate) — Q1 2026**
+- 📚 Currently preparing: **MD-102 ( Endpoint Administrator) - February 2026 | AZ-104 (Azure Administrator Associate) — Q1-Q2 2026**
 - ⚡ Fun fact: I speak 3 languages (French, English, Arabic)
 
 ---
