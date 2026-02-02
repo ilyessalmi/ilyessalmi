@@ -51,6 +51,31 @@ I distinguish myself from other admins by using my data coding background to cre
 
 ## 💼 Professional Experience
 
+### Independent IT Support & Continuous Learning
+**Paris, France | September 2024 – Present**
+
+Combining hands-on technical support with intensive Microsoft certification training.
+
+**🎓 Certifications Earned (2023-2025):**
+- Microsoft Cloud Support Associate Professional Certificate
+- Microsoft IT Support Specialist Certificate
+- Microsoft SC-900 – Security, Compliance & Identity
+- Microsoft AZ-900 – Azure Fundamentals
+- Microsoft MS-900 – Microsoft 365 Fundamentals
+- Google IT Support Professional Certificate
+
+**📚 Currently Preparing:**
+- MD-102 – Endpoint Administrator (Target: February 2026)
+
+**🔧 Technical Support Activities:**
+- Windows 10/11 troubleshooting: system diagnostics, BSOD resolution, performance optimization
+- Hardware support: RAM/SSD upgrades, workstation maintenance
+- Microsoft 365 administration: account management, licensing, app deployment
+- Network support: router configuration, WiFi, DNS, basic security
+- Documentation and incident resolution
+
+---
+
 ### **Microsoft 365 Administrator** | *Green Ways s.r.o.*
 *Prague, Czech Republic | June 2022 - Feb 2023 (9 Months)*
 - Managed a **Microsoft 365 Business Premium** tenant for a distributed team of ~30 employees.
