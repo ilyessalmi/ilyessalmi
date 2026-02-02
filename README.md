@@ -26,7 +26,8 @@ I distinguish myself from other admins by using my data coding background to cre
 | **Google IT Support Professional** | Google / Coursera | ✅ Earned |
 | **Python for Everybody Specialization** | University of Michigan | ✅ Earned |
 | **Google AI & Prompting Essentials** | Google / Coursera | ✅ Earned |
-| *Azure Administrator Associate (AZ-104)* | Microsoft | 🎯 In Progress — Q1 2026 |
+| *Microsoft Endpoint Administrator Associate (MD-102)* | Microsoft | 🎯 In Progress — February 2026 |
+| *Azure Administrator Associate (AZ-104)* | Microsoft | 🎯 In Progress —  2026 |
 
 ---
 
