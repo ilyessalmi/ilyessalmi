@@ -1,5 +1,5 @@
 # Hi there, I'm Ilyes Salmi! 👋
-## Cloud Administrator | Microsoft 365 & Azure | RPA & Automation Developer
+## Cloud Support | Microsoft 365 & Azure | Linux 
 
 I am a resilient and technical IT professional with a unique dual background in **Cloud Infrastructure** and **Data Engineering**. 
 
@@ -7,9 +7,6 @@ My journey began with hands-on IT support in Prague, managing Microsoft 365 for 
 
 I distinguish myself from other admins by using my data coding background to create **efficient automation scripts**, perform **robust troubleshooting**, and handle complex **log analysis**.
 
-- 🔭 I'm currently working on: **Azure Infrastructure, Microsoft 365 Security & Compliance, n8n Workflow Automation**
-- 🎯 My goal: **To secure a Cloud Support / SysAdmin (Azure/Microsoft 365) role in France**
-- 📚 Currently preparing: **MD-102 ( Endpoint Administrator) - February 2026 | AZ-104 (Azure Administrator Associate) — Q1-Q2 2026**
 - ⚡ Fun fact: I speak 3 languages (French, English, Arabic)
 
 ---
@@ -23,11 +20,9 @@ I distinguish myself from other admins by using my data coding background to cre
 | **Microsoft 365 Fundamentals (MS-900)** | Microsoft | ✅ Earned |
 | **Microsoft Cloud Support Associate** | Microsoft / Coursera | ✅ Earned |
 | **Data Engineer - RNCP Level 7 (Bac+5)** | Ecole PMN (Le Pont) | ✅ Earned |
-| **Google IT Support Professional** | Google / Coursera | ✅ Earned |
+| **Google IT Support Professional** | ~ CompTIA A+/ Coursera | ✅ Earned |
 | **Python for Everybody Specialization** | University of Michigan | ✅ Earned |
 | **Google AI & Prompting Essentials** | Google / Coursera | ✅ Earned |
-| *Microsoft Endpoint Administrator Associate (MD-102)* | Microsoft | 🎯 In Progress — February 2026 |
-| *Azure Administrator Associate (AZ-104)* | Microsoft | 🎯 In Progress —  2026 |
 
 ---
 
@@ -65,8 +60,6 @@ Combining hands-on technical support with intensive Microsoft certification trai
 - Microsoft MS-900 – Microsoft 365 Fundamentals
 - Google IT Support Professional Certificate
 
-**📚 Currently Preparing:**
-- MD-102 – Endpoint Administrator (Target: February 2026)
 
 **🔧 Technical Support Activities:**
 - Windows 10/11 troubleshooting: system diagnostics, BSOD resolution, performance optimization
@@ -137,11 +130,8 @@ Below are the hands-on projects I have designed and deployed in my home lab.
   <a href="https://www.datacamp.com/portfolio/ilyessalmi">
     <img src="https://img.shields.io/badge/DataCamp_Portfolio-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp" />
   </a>
-  <a href="mailto:ilyes.salmi@proton.me">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 ---
 
-📍 Based in Paris, France | 🌐 Trilingual: French, English, Arabic | ✅ Available Immediately
+📍 Based in Paris, France | 🌐 Trilingual: French, English, Arabic
